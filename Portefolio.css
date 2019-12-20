@@ -1,0 +1,66 @@
+* {
+	padding:0;
+	margin:0;
+	background:mediumpurple;
+	position:relative;
+}
+
+
+.Conteneurimg {
+  text-align: center;
+  padding: 10px;
+}
+
+.Logo {
+  width: 700px;
+}
+
+.Photolenny {
+  width: 300px;
+}
+
+.Spam {
+    color: blue;
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 120%;
+}
+
+.Bio {
+    font-family: Arial, sans-serif;  
+    font-size: 120%;
+}
+
+.Tdtable {
+	vertical-align:top;
+}	
+
+.Tabcenter{
+   margin-left:auto;
+   margin-right:auto;
+   vertical-align:top;
+}
+
+.Tabcv{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	vertical-align:top;
+}
+
+
+.Copyright {
+    font-size: 0.7em;
+    text-align: center;
+    font-family: Arial, sans-serif;  
+}
+
+.Footerright {
+  width: 100px;
+  float: right;
+}
+
+.Footerleft {
+  width: 100px;
+  float: left;
+}
